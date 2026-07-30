@@ -37,4 +37,4 @@ A recreation of the classic arcade game developed in C++ using SFML as my first 
 ## Let's Connect
 
 - LinkedIn: www.linkedin.com/in/mehtab-ahmed-9b0613416
-- Email: mehtab786@gmail.com
+- Email: eo.mehtab786@gmail.com
