@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mehtab Ahmed 👋
 
-<!--
-**mehtab2008/mehtab2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student at **FAST NUCES**
 
-Here are some ideas to get you started:
+I'm passionate about understanding how systems work, building software, and developing practical cybersecurity skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on **Linux**, **Networking**, **Python**, and **Web Application Penetration Testing**.
+
+---
+
+## Tech Stack
+
+- C++
+- Python
+- Git & GitHub
+- Linux
+- SFML
+
+---
+
+## Current Learning Journey
+
+- Web Application Security
+- Networking Fundamentals
+- Linux
+- Secure Programming
+
+---
+
+## Featured Projects
+
+🎮 **TumblePop-SFML**  
+A recreation of the classic arcade game developed in C++ using SFML as my first university programming project.
+
+---
+
+## Let's Connect
+
+- LinkedIn: www.linkedin.com/in/mehtab-ahmed-9b0613416
+- Email: mehtab786@gmail.com
